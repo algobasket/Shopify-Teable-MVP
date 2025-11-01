@@ -1,7 +1,7 @@
 # Shopify-Teable-MVP
 Shopify-Teable-MVP 
 
-Project Definition: "TeableSync"
+# Project Definition: "TeableSync"
 
 Product Vision: A Shopify app that provides e-commerce owners with a powerful, spreadsheet-like interface (powered by Teable) for managing their entire catalog, featuring robust two-way synchronization, audit trails, and rollback capabilities.
 
@@ -26,7 +26,7 @@ Here is a proper, scalable architecture for the MVP.
 
 <img width="789" height="306" alt="image" src="https://github.com/user-attachments/assets/0bad56a7-192b-4017-b6eb-fc640daa1ba8" />
 
-1. Shopify App (Frontend)
+## 1. Shopify App (Frontend)
 
 Technology: Next.js (or Remix) for the initial setup and onboarding UI. This is the "glue" that the merchant interacts with inside the Shopify Admin.
 
