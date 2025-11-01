@@ -32,7 +32,7 @@ Technology: Next.js (or Remix) for the initial setup and onboarding UI. This is 
 
 Hosting: Your provided frontend servers.
 
-2. TeableSync Backend Service
+## 2. TeableSync Backend Service
 
 Technology: Next.js API Routes (if using Next.js) or a separate Express.js server.
 
@@ -48,7 +48,7 @@ Managing the lifecycle of Teable instances (creation, configuration).
 
 Orchestrating syncs between Shopify and Teable.
 
-3. Teable Instances (Core Product)
+## 3. Teable Instances (Core Product)
 
 Technology: Teable, self-hosted.
 
@@ -56,7 +56,7 @@ Hosting: Your provided servers. Each store gets its own instance (for data isola
 
 Database: Each Teable instance will connect to its own dedicated Neon.com PostgreSQL branch. This is key.
 
-4. Main Application Database
+## 4. Main Application Database
 
 Technology: Neon.com PostgreSQL
 
@@ -68,7 +68,9 @@ Sync job history and audit metadata.
 
 User sessions.
 
-Implementation Plan: What It Will Take
+
+# Implementation Plan: What It Will Take
+
 Phase 1: Foundation & Infrastructure (DevOps Lite)
 This is the most critical phase to achieve your "low pain" goal.
 
