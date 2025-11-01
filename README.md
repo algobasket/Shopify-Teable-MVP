@@ -321,11 +321,11 @@ Deliverable: Live MVP in Shopify App Store
 
 ### 📊 Success Metrics for Each Milestone
 ### Milestone 1: Successful app installation creates Teable instance
-Milestone 2: 100% product import accuracy with images
-Milestone 3: < 5 minute sync time for 500 products
-Milestone 4: Complete audit trail for all changes
-Milestone 5: User-friendly interface with < 1% error rate
-Milestone 6: Successful App Store approval and first users
+### Milestone 2: 100% product import accuracy with images
+### Milestone 3: < 5 minute sync time for 500 products
+### Milestone 4: Complete audit trail for all changes
+### Milestone 5: User-friendly interface with < 1% error rate
+### Milestone 6: Successful App Store approval and first users
 
 
 
